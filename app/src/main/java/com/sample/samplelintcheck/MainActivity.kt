@@ -27,6 +27,8 @@ class MainActivity : AppCompatActivity() {
             var name : String = NAME.text.toString()
             EMAIL.text.clear()
             NAME.text.clear()
+
+//            initial comment
         }
 
     }
